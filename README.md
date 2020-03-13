@@ -15,6 +15,4 @@ Notes
 
 Important: For a new installation running BIG-IP 14.0.0 or later, you must log in to the system at least one time to change your root and administrator passwords. When you change the administrator password for the first time, the system automatically changes the root password. This is a one-time event. For more information, refer to K10612010: Root and admin users must reset default passwords when logging in to the BIG-IP system for the first time.
 
-License Demo IRYZH--PXMPZ-SEDVS-KDVDIEZ
-
-Update
+License Demo
